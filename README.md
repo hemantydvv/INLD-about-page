@@ -32,9 +32,7 @@ A simple, responsive "About" webpage for the **Indian National Lok Dal (INLD)**,
 1. Clone the repo: `git clone https://github.com/hemantydvv/INLD-about-page.git`
 2. Open `index.html` in your browser (e.g., VS Code Live Server).
 
-## Screenshots
-(Upload images to `/images` folder and add here, e.g.:)
-![INLD Hero Section](images/hero.png)
+
 
 ## Contributing
 Feel free to fork, improve, or suggest changes—PRs welcome! 🚀
